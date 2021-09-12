@@ -1,4 +1,4 @@
-console.log("app.js in js dir loaded")
+
 // fetch("http://puzzle.mead.io/puzzle").then((response)=>{
 //     response.json().then((data)=>{
 //         console.log(data)
